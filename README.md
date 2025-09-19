@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Development<br>👯 I’m looking to collaborate on Web Applications<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning Cloud Computing<br>💬 LinkedIn - www.linkedin.com/in/taanisha-sharma-
+🔭 Currently working on Development<br>👯 Looking to collaborate on Web Applications<br>🤝 Need help with AI/ML<br>🌱 Learning Cloud Computing<br>💬 LinkedIn - www.linkedin.com/in/taanisha-sharma-
 
 
 ## 🌐 Socials:
